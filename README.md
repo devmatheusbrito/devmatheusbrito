@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I am Matheus Brito 🌌
 
-<!--
-**devmatheusbrito/devmatheusbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias:
 
-Here are some ideas to get you started:
+<div style='display: inline_block'> 
+  <img align='center' width='120' height='40' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+  <img align='center' width='120' height='40' alt='typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img align='center' width='120' height='40' alt='typescript' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+</div>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href='https://github.com/devmatheusbrito'> 
+  <img height='180em' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=devmatheusbrito&show_icons=true&theme=jolly'/>
+  <br/>
+  <img height='150em' alt='Top Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusbrito&layout=compact&theme=jolly'/>
+  </a> 
+</div>
