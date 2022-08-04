@@ -20,5 +20,5 @@
   </div>
   
   ![Snake animation](https://github.com/devmatheusbrito/devmatheusbrito/blob/output/github-contribution-grid-snake-dark.svg)
-
+  
 </div>
