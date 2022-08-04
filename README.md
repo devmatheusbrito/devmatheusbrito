@@ -19,6 +19,6 @@
     </a> 
   </div>
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/devmatheusbrito/devmatheusbrito/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  
+  ![Snake animation](https://github.com/devmatheusbrito/devmatheusbrito/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 </div>
