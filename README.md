@@ -15,7 +15,7 @@
     <a href='https://github.com/devmatheusbrito'> 
     <img height='180em' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=devmatheusbrito&show_icons=true&theme=jolly'/>
     <br/>
-    <img height='150em' alt='Top Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusbrito&layout=compact&theme=jolly'/>
+    <img height='180em' alt='Top Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusbrito&layout=compact&theme=jolly'/>
     </a> 
   </div>
   
