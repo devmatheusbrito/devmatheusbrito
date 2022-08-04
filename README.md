@@ -18,6 +18,7 @@
     <img height='150em' alt='Top Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusbrito&layout=compact&theme=jolly'/>
     </a> 
   </div>
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/devmatheusbrito/devmatheusbrito/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 </div>
