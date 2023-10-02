@@ -12,14 +12,3 @@
   </div>
   <br/>
 
-  <div align='center'>
-    <a href='https://github.com/devmatheusbrito'> 
-    <img height='180em' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=devmatheusbrito&show_icons=true&theme=jolly'/>
-    <br/>
-    <img height='183,5em' alt='Top Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusbrito&layout=compact&theme=jolly'/>
-    </a> 
-  </div>
-  
-  ![Snake animation](https://github.com/devmatheusbrito/devmatheusbrito/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
